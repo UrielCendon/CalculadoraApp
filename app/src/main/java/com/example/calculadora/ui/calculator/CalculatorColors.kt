@@ -1,0 +1,20 @@
+package com.example.calculadora.ui.calculator
+
+import androidx.compose.ui.graphics.Color
+val CalcBackground    = Color(0xFF0D0D0D)
+val CalcSurface       = Color(0xFF161616)
+val CalcDarkGray      = Color(0xFF1E1E1E)
+val CalcMidGray       = Color(0xFF2A2A2A)
+val CalcLightGray     = Color(0xFF3D3D3D)
+val CalcControlGray   = Color(0xFF4A4A4A)
+val CalcTextPrimary   = Color(0xFFFFFFFF)
+val CalcTextSecondary = Color(0xFF888888)
+val CalcTextDim       = Color(0xFF555555)
+val CalcAccent        = Color(0xFF00E676)
+val CalcAccentDark    = Color(0xFF00B85C)
+val CalcOperator      = Color(0xFFFF8C00)
+val CalcOperatorText  = Color(0xFFFFFFFF)
+val CalcSpecial       = Color(0xFF1A3340)
+val CalcSpecialText   = Color(0xFF00E5FF)
+val CalcControl       = Color(0xFF2C2C2C)
+val CalcControlText   = Color(0xFFCCCCCC)
